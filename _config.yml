@@ -35,7 +35,7 @@ color:
 footer:
   copyright: JazzMean Instruments
   location: Colchester
-  social: Around the Web
+  social: Social
   credits: Credit
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -49,7 +49,6 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Colchester
   - line: Essex
   - line: United Kingdom
 
