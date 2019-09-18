@@ -34,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: JazzMean Instruments
-  location: Colchester
+  location: Location
   social: Social
   credits: Credit
 
@@ -49,6 +49,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: Colchester
   - line: Essex
   - line: United Kingdom
 
